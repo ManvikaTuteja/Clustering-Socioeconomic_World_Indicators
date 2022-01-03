@@ -1,4 +1,4 @@
-# Clustering-Socioeconomic_World_Inicators
+# Clustering-Socioeconomic_World_Indicators
 
 In this project I am analyzing a data-set that looks at various socioeconomic parameters for nearly 200 countries. The analysis and subsequent analysis is divided on the basis of three major criterion:
 
